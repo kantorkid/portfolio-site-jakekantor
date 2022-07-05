@@ -46,7 +46,7 @@ const Projects = () => {
                     </p>
 
                     <a href="https://dapp-token-exchange-jakekantor.herokuapp.com/" target="_blank" className="button">Site</a>
-                    <a href="https://github.com/kantorkid/Decentralized-Cryptocurrency-Exchange.git" target="_blank" className="button">Code</a>
+                    <a href="https://github.com/kantorkid/Jake-Kantor_Decentralized-Cryptocurrency_Exchange" target="_blank" className="button">Code</a>
                 </div>
             </div>
         </section>
