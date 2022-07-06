@@ -64,7 +64,7 @@ const Projects = () => {
                     </p>
 
                     <a href="https://jake-kantor-dev-portfolio.herokuapp.com/" target="_blank" className="button">Site</a>
-                    <a href="https://github.com/" target="_blank" className="button">Code</a>
+                    <a href="hhttps://github.com/kantorkid/Portfolio-Jake-Kantor" target="_blank" className="button">Code</a>
                 </div>
             </div>
         </section>
