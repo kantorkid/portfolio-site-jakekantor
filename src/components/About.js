@@ -10,7 +10,11 @@ const About = () => {
             with 3 years of professional experience in the crypto space. 
             As a Board Executive of the National Kabaddi Federation, 
             Jake Kantor has been propelling the international sport of kabaddi 
-            to becoming the first ever Olympic SmartSport. Jake's blockchain developer experience includes:
+            to becoming the first ever Olympic SmartSport. Jake is a 
+            Unity certified blockchain developer with experience in:
+            building real cryptocurrencies connected to the blockchain, 
+            creating active decentralized cryptocurrency exchanges, 
+            building NFT projects from scratch (art & blockchain connection), 
             Solidity, smart contracts, React, NFTs, and more.
 
             </p>

@@ -19,6 +19,13 @@ const Experience = () => {
                     </ul>
                 </li>
                 <li>
+                    <i>Virginia Beach Schools</i> - <strong>NFT Educator</strong>, 2022-current
+                    <ul>
+                        <li>Educating students of all ages on NFTs and NFT technology</li>
+                        <li>Creating NFT projects from scratch for the school to promote</li>
+                    </ul>
+                </li>
+                <li>
                     <i>James Madison University</i>, 2014-2018
                     <ul>
                         <li>Graduated with 3.00 GPA</li>
