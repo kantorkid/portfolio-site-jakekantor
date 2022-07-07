@@ -56,7 +56,7 @@ const Projects = () => {
                     <h3>Portfolio</h3>
                     <img src={portfolio} alt="Portfolio" />
                     <p>Jake Kantor's professional 
-                    Blockchain Developer Bootcamp. Here is where you can 
+                    Portfolio. Here is where you can 
                     interact with Jake's blockchain projects. 
                     Find Jake's projects, experience, about, education, 
                     and social media here.
