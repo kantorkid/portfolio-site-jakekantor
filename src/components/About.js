@@ -14,10 +14,6 @@ const About = () => {
             <br></br><br></br>
             </p>
 
-            <p>
-                These are some of the skills I can bring to your company:
-            <br></br><br></br>
-            </p>
 
             <p>
                 <b> BLOCKCHAIN DEVELOPMENT:</b>
