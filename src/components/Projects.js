@@ -21,7 +21,7 @@ const Projects = () => {
                     Use the Kovan Test Network to interact for free.
                     </p>
 
-                    <a href="https://dapp-token-exchange-jakekantor.herokuapp.com/" target="_blank" className="button">Exchange</a>
+                    <a href="https://dapp-token-exchange-jakekantor.herokuapp.com/" target="_blank" className="button">Site</a>
                     <a href="https://kovan.etherscan.io/address/0xbb1e1bd372e776375db698e8837ae4756c74280f#code" target="_blank" className="button">Etherscan</a>
                 </div>
 
@@ -56,22 +56,11 @@ const Projects = () => {
 
 
                 <div className="projects__card">
-                    <h3>The Olympics™ </h3> 
-                    <iframe width="100%" height="350" src="https://www.youtube.com/embed/8zONpbrN5UQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>                    
-                    <p>Jake Kantor is developing the Olympic's 
-                    soon to be first ever SmartSport! The ancient international sport of 
-                    kabaddi is seeking Olympic inclusion as early as the 2026 Youth Olympics.
-                    </p>
-
-                    <a href="https://www.us-kabaddi.com/" target="_blank" className="button">Site</a>
-                </div>
-
-
-                <div className="projects__card">
-                    <h3>Portfolio</h3>
+                    <h3>IPFS</h3>
                     <img src={portfolio} alt="Portfolio" />
                     <p>Jake Kantor's professional 
-                    Portfolio. Here is where you can 
+                    Portfolio is connected to the InterPlanetary File System. 
+                    Here is where you can 
                     interact with Jake's blockchain projects. 
                     Find Jake's projects, experience, about, education, 
                     and social media here.

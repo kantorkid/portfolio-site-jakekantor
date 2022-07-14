@@ -42,6 +42,7 @@ code {
 .about,
 .projects,
 .experience,
+.education,
 .social,
 .footer {
   padding: 50px 25px 25px;
@@ -156,7 +157,7 @@ background: white;
 }
 
 /* ------------------------------------------------------ */
-/* -- Education/Experience -- */
+/* -- Experience -- */
 
 .experience h2 {
   font-size: 42px;
@@ -168,6 +169,24 @@ background: white;
 }
 
 .experience li {
+  font-size: 18px;
+  line-height: 130%;
+  margin: 15px auto;
+}
+
+/* ------------------------------------------------------ */
+/* -- Education -- */
+
+.education h2 {
+  font-size: 42px;
+  margin: 25px auto;
+}
+
+.education ul {
+  margin: 0 0 10px 50px;
+}
+
+.education li {
   font-size: 18px;
   line-height: 130%;
   margin: 15px auto;
