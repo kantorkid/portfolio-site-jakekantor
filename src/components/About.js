@@ -8,7 +8,7 @@ const About = () => {
             <p>
                 Throughout my career, I’ve had many experiences in 
                 Blockchain Development and NFT Marketing, 
-                specifically at a “<b><i>SHARK TANK</i></b>” winning company and a crypto startup. 
+                specifically at a hit TV show “<i>SHARK TANK</i>” winning company and a crypto startup. 
                 These experience have led me to growing my skills that are 
                 directly related to this role. 
             <br></br><br></br>
