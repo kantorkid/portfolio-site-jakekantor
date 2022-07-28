@@ -16,7 +16,7 @@ const Experience = () => {
                 <li>
                     <i>CM National Inc</i> - <strong>NFT Marketing</strong>, 2022-current
                     <ul>
-                        <li>NFT marketing for the "SHARK TANK" winning company</li>
+                        <li>NFT marketing for a "<b><i><a href="https://www.youtube.com/watch?v=4k4Oewvp7fA">Shark Tank</a></i></b>" winning company</li>
                         <li>Requires deep understanding of NFTs and the various social media platforms necessary to promote them on</li>
                     </ul>
                 </li>
@@ -52,6 +52,13 @@ const Experience = () => {
                     <i>Dapp University</i>, 2021-2022
                     <ul>
                         <li>Graduated with 4.00 GPA</li>
+                    </ul>
+                </li>
+
+                <li>
+                    <i>Unity</i>, 2022
+                    <ul>
+                        <li>Unity Certified Develper</li>
                     </ul>
                 </li>
 

@@ -111,6 +111,7 @@ code {
   font-size: 18px;
   line-height: 130%;
   max-width: 50ch;
+
 }
 
 .projects__cards {
@@ -123,25 +124,27 @@ code {
 
 .projects__card {
   max-width: 350px;
-
   padding: 20px;
-
   border: 1px solid #0088BB;
   border-radius: 8px;
-background: white;
+  background: white;
 
 }
 
 .projects__card h3 {
-  font-size: 32px;
+  font-size: 40px;
   font-weight: 500;
   margin-bottom: 10px;
+  text-align: center;
+
 
 }
 
 .projects__card p {
   font-size: 16px;
   margin: 20px 0;
+  text-align: center;
+
 }
 
 .projects__card img {
@@ -153,7 +156,11 @@ background: white;
 }
 
 .projects__card .button {
-  margin: 10px 5px 0;
+  font-size: 24px;
+  width:  100%;
+  margin: 10px 0px 0;
+  text-align: center;
+
 }
 
 /* ------------------------------------------------------ */
