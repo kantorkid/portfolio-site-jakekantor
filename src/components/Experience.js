@@ -5,7 +5,16 @@ const Experience = () => {
             <ul>
 
                 <li>
-                    <i>Daovelop </i> - <strong>Co-CTO / Blockchain Developer</strong>, 2022-current
+                    <i>WorldSpace </i> - <strong>METAVERSE Developer</strong>, 2022-current
+                    <ul>
+                        <li>Building 3D websites and environments. All environments and assets within them are NFTs .</li>
+                        <li>Ex. NFT Recording stuio with NFT recording equipment</li>
+                    </ul>
+                </li>
+
+
+                <li>
+                    <i>Daovelop </i> - <strong>CTO / Blockchain Developer</strong>, 2022-current
                     <ul>
                         <li>Building a crypto Decentralized Autonomous Organization (DAO) for the real estate startup</li>
                         <li>Advising them through the crypto financial space</li>
@@ -14,7 +23,7 @@ const Experience = () => {
 
 
                 <li>
-                    <i>CM National Inc</i> - <strong>NFT Marketing</strong>, 2022-current
+                    <i>CM National Inc</i> - <strong>NFT Marketing</strong>, 2021-2022
                     <ul>
                         <li>NFT marketing for a "<b><i><a href="https://www.youtube.com/watch?v=4k4Oewvp7fA">Shark Tank</a></i></b>" winning company</li>
                         <li>Requires deep understanding of NFTs and the various social media platforms necessary to promote them on</li>
@@ -23,7 +32,7 @@ const Experience = () => {
 
 
                 <li>
-                    <i>Beyond Web Service</i> - <strong>Junior Blockchain Developer</strong>, 2022-current
+                    <i>Beyond Web Service</i> - <strong>Junior Blockchain Developer</strong>, 2021-2022
                     <ul>
                         <li>Contributing to smart contract development on client's platform</li>
                         <li>Peer reviewed &amp; Audited Solidity code</li>
@@ -32,7 +41,7 @@ const Experience = () => {
 
 
                 <li>
-                    <i>Virginia Beach Schools</i> - <strong>NFT Educator</strong>, 2022-current
+                    <i>Virginia Beach Schools</i> - <strong>NFT Educator</strong>, 2021-2022
                     <ul>
                         <li>Educating students of all ages on NFTs and NFT technology</li>
                         <li>Creating NFT projects from scratch for the school to promote</li>

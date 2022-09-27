@@ -14,14 +14,41 @@ const Projects = () => {
             <div className="projects__cards">
 
                 <div className="projects__card">
-                    <b><br></br><h3>Blockchain Gaming (Unity)</h3> <br></br></b>
-                    <iframe width="310" height="315" src="https://www.youtube.com/embed/KOY-VcB3h6Y" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-                    <p><b>The Dynamic Dolphins! </b> <br></br> Jake Kantor has developed a new Web3-connected Blockchain Video Game. 
-                    This educational game, "The Dynamic Dolphins", is a fun way to the youth
-                    about blockchain/NFT technology.<br></br>
+                    <b><h3>METAVERSE Recording Studio</h3></b>
+                    <iframe width="310" height="315" src="https://www.youtube.com/embed/G6dhfhB2P4U" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>                    
+                    <p>Jake Kantor is working with WorldSpace, a metaverse startup, to create various blockchain compatible 3D websites and environments. 
+                    These environments and all assets within them are NFT-able. </p>
+            <br></br>
+
+                    <p>For example: The recording sudio above can be purchased as an NFT and all recording equipment can also be purchased as seperate NFTs.
                     </p>
 
-                    <a href="https://kantorkid.itch.io/the-dynamic-dolphins" target="_blank" className="button">Play Now!</a>
+                </div>
+
+
+                <div className="projects__card">
+                    <b><h3>Decentralized Cryptocurrency Exchange</h3></b>
+                    <iframe width="310" height="315" src="https://www.youtube.com/embed/E39Rr1eTVlo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>                    
+                    <p>Jake Kantor has developed a new cryptocurrency 
+                    and decentralized crypto exchange. 
+                    Use the Kovan Test Network to interact with 
+                    Jake's DApp exchange for free.
+                    </p>
+
+                    <a href="https://dapp-token-exchange-jakekantor.herokuapp.com/" target="_blank" className="button">Site</a>
+                    <a href="https://github.com/kantorkid/Jake-Kantor_Decentralized-Cryptocurrency_Exchange" target="_blank" className="button">Github </a>
+                </div>
+
+
+                <div className="projects__card">
+                    <b><br></br><h3>Blockchain Gaming</h3> <br></br></b>
+                    <iframe width="310" height="315" src="https://www.youtube.com/embed/KOY-VcB3h6Y" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+                    <p><b>The Dynamic Dolphins! </b> <br></br> Jake Kantor has developed a new Web3-connected Blockchain Video Game. 
+                    This educational game, "The Dynamic Dolphins", is a fun way to educate the youth
+                    about Blockchain & NFT technology.<br></br>
+                    </p>
+
+                    <a href="https://play.unity.com/mg/other/the-dynamic-dolphins" target="_blank" className="button">Play Now!</a>
                 </div>
 
 
@@ -34,7 +61,7 @@ const Projects = () => {
                     </p>
 
                     <a href="https://dapp-token-exchange-jakekantor.herokuapp.com/" target="_blank" className="button">Site</a>
-                    <a href="https://kovan.etherscan.io/address/0xbb1e1bd372e776375db698e8837ae4756c74280f#code" target="_blank" className="button">Etherscan</a>
+                    <a href="https://kovan.etherscan.io/address/0xbb1e1bd372e776375db698e8837ae4756c74280f" target="_blank" className="button">Etherscan</a>
                 </div>
 
 
@@ -53,18 +80,6 @@ const Projects = () => {
                 </div>
 
 
-                <div className="projects__card">
-                    <b><h3>Decentralized Cryptocurrency Exchange</h3></b>
-                    <img src={aave} alt="Decentralized Cryptocurrency Exchange" />
-                    <p>Jake Kantor has developed a new cryptocurrency 
-                    and decentralized crypto exchange. 
-                    Use the Kovan Test Network to interact with 
-                    Jake's DApp exchange for free.
-                    </p>
-
-                    <a href="https://dapp-token-exchange-jakekantor.herokuapp.com/" target="_blank" className="button">Site</a>
-                    <a href="https://github.com/kantorkid/Jake-Kantor_Decentralized-Cryptocurrency_Exchange" target="_blank" className="button">Github </a>
-                </div>
 
 
                 <div className="projects__card">
